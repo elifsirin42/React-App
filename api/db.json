@@ -1,0 +1,45 @@
+{
+	"products":[
+	{
+	"id": 1,
+	"categoryId": 2,
+	"productName":" Chai",
+	"quantityPerUnit": "48 - 6 oz jars",
+	"unitPrice": 23,
+	"unitsInStock": 53
+	},
+	{
+	"id": 2,
+	"categoryId": 1,
+	"productName":" Chang",
+	"quantityPerUnit": "24 - 12 oz bottles",
+	"unitPrice": 21,
+	"unitsInStock": 17
+	},
+	{
+	"id": 8,
+	"categoryId": 2,
+	"productName":"Northwoods Cranberry Sauce",
+	"quantityPerUnit": "12 - 12 oz jars",
+	"unitPrice": 40,
+	"unitsInStock": 100
+	}],
+	"categories":[
+	{
+	"id": 1,
+	"categoryName": "Beverages",
+	"seoUrl": "beverages"
+	},
+	{
+	"id": 2,
+	"categoryName": "Condiments",
+	"seoUrl": "condiments"
+	},
+	{
+	"id": 3,
+	"categoryName": "Confections",
+	"seoUrl": "confections"
+	}
+	
+	]
+}
